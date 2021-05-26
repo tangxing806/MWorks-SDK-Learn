@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-26T12:28:08.054Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="yHk-3dfq48l0CJeAfKFF" version="14.7.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-05-26T12:29:24.405Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="RGRXo_6u3P-FgPfkAd2R" version="14.7.1" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="QListView">
     <mxGraphModel dx="962" dy="721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -73,7 +73,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JLT4y-COU6rPaRXCkT0O" name="QStandardItemModel">
-    <mxGraphModel dx="962" dy="721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="962" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="vPROqyQJXO_QQe_ezyRg-0" />
         <mxCell id="vPROqyQJXO_QQe_ezyRg-1" parent="vPROqyQJXO_QQe_ezyRg-0" />
@@ -98,6 +98,14 @@
             <mxPoint x="460" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="NRYx_4Kp_MSdxgfVGnAk" name="QStandardItem">
+    <mxGraphModel dx="962" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="CAYdVG5q3DjvXmHUXyiJ-0" />
+        <mxCell id="CAYdVG5q3DjvXmHUXyiJ-1" parent="CAYdVG5q3DjvXmHUXyiJ-0" />
       </root>
     </mxGraphModel>
   </diagram>
