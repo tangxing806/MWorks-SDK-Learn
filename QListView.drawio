@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-26T12:29:24.405Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="RGRXo_6u3P-FgPfkAd2R" version="14.7.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-05-26T12:30:40.655Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="8K18Fn7q1aY9esA0fIr0" version="14.7.1" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="QListView">
     <mxGraphModel dx="962" dy="721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -106,6 +106,12 @@
       <root>
         <mxCell id="CAYdVG5q3DjvXmHUXyiJ-0" />
         <mxCell id="CAYdVG5q3DjvXmHUXyiJ-1" parent="CAYdVG5q3DjvXmHUXyiJ-0" />
+        <mxCell id="YyRcW5DKe4rtLkB1AiKa-0" value="QStandardItem" style="html=1;fontFamily=Verdana;align=center;verticalAlign=middle;fontSize=16;" vertex="1" parent="CAYdVG5q3DjvXmHUXyiJ-1">
+          <mxGeometry x="410" y="260" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LuwkMcwZRQQjFHYR8tNH-0" value="独立的一个类，无父子类" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=16;" vertex="1" parent="CAYdVG5q3DjvXmHUXyiJ-1">
+          <mxGeometry x="405" y="300" width="190" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
